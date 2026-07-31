@@ -87,5 +87,8 @@
   "bugs": {
     "url": "https://github.com/mahmudx7/Hinata-Bot-v3/issues"
   },
-  "homepage": "https://github.com/mahmudx7/Hinata-Bot-v3#readme"
+  "homepage": "https://github.com/mahmudx7/Hinata-Bot-v3#readme",
+  "overrides": {
+    "fast-xml-parser": "5.3.5"
+  }
 }
